@@ -1,0 +1,28 @@
+body
+{
+    background: #333;
+}
+a
+{
+    color: #fff;
+    text-decoration: none;
+    overflow: auto;
+}
+.slider-inner
+{
+    width: 250px;
+    height: 470px;
+    position: relative;
+    overflow: hidden;
+    float: left;
+    padding: 3px;
+    border: #666 solid 1px;
+}
+.slider-inner img
+{
+    display: none;
+}
+.slider-inner img.active
+ {
+   display: inline-block;
+}

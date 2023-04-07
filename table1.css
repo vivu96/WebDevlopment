@@ -1,0 +1,35 @@
+#table
+{
+        text-align: center;
+    padding : 0px;
+    margin:50px;
+}
+.tr5,.tr2,.tr4
+{
+    background-color: red;
+}
+.tr1,.tr3
+{
+    background-color: yellow;
+}
+
+.place.tr5
+{
+    background-color: yellow;
+}
+.place1.tr2
+{
+    background-color: yellow;
+}
+.place2.tr4
+{
+    background-color: yellow;
+}
+.place3.tr1
+{
+    background-color: red;
+}
+.place4.tr3
+{
+    background-color: red;
+}
