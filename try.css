@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    padding: 10px;
+    margin: 10px;
+}
+img
+{
+    display: none;
+}
+img.active
+{
+    display:block;
+}
